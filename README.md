@@ -1,4 +1,4 @@
-# is-it-installed
+# Is It Installed?
 Guide to determining if a given resource is installed
 
 Resource | Check If It Is Installed? | Get Out |  Link
